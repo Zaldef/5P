@@ -23,4 +23,4 @@ O repositório está organizado da seguinte forma:
 ### Este é um repositório pessoal, mas se você tiver sugestões, sinta-se à vontade para abrir uma issue ou fazer um pull request. Todas as contribuições são bem-vindas!
 
 ## 📄 Licença
-### Este repositório está licenciado sob a [MIT License](LICENSE).
+### Este repositório está licenciado sob a [MIT License](https://github.com/Zaldef/5P/blob/Zaldef-patch-1/LICENSE).
