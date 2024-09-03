@@ -1,29 +1,30 @@
 
-# Curso em Video
-Esse repositório contém os exercícios e projetos desenvolvidos durante o curso de Python do [Curso em Vídeo](https://www.cursoemvideo.com/).
+# 🎉 **Curso em Video** 🎉
 
-## Índice
+Este repositório contém os exercícios e projetos desenvolvidos durante o curso de Python do [Curso em Vídeo](https://www.cursoemvideo.com/).
 
-- [Descrição](#descrição)
-- [Funcionalidades](#funcionalidades)
-- [Requisitos](#requisitos)
-- [Instalação](#instalação)
-- [Como Usar](#como-usar)
-- [Exemplos](#exemplos)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
+## 📋 **Índice**
 
-## Descrição
+- [📄 Descrição](#descrição)
+- [✨ Funcionalidades](#funcionalidades)
+- [🔧 Requisitos](#requisitos)
+- [💻 Instalação](#instalação)
+- [🚀 Como Usar](#como-usar)
+- [🔍 Exemplos](#exemplos)
+- [🤝 Contribuição](#contribuição)
+- [📜 Licença](#licença)
 
-Aqui você pode fornecer uma descrição mais detalhada do projeto. Explique o problema que ele resolve, o objetivo principal, e como ele funciona. 
+## 📄 **Descrição**
 
-## Funcionalidades
+Aqui você pode fornecer uma descrição mais detalhada do projeto. Explique o problema que ele resolve, o objetivo principal, e como ele funciona.
 
-- **Funcionalidade 1**: Descrição da funcionalidade.
-- **Funcionalidade 2**: Descrição da funcionalidade.
-- **Funcionalidade 3**: Descrição da funcionalidade.
+## ✨ **Funcionalidades**
 
-## Requisitos
+- **⚙️ Funcionalidade 1**: Descrição da funcionalidade.
+- **⚙️ Funcionalidade 2**: Descrição da funcionalidade.
+- **⚙️ Funcionalidade 3**: Descrição da funcionalidade.
+
+## 🔧 **Requisitos**
 
 Liste as dependências ou requisitos necessários para executar o projeto:
 
@@ -31,7 +32,7 @@ Liste as dependências ou requisitos necessários para executar o projeto:
 - Bibliotecas necessárias (e.g., `numpy`, `pandas`, etc.)
 - Outros requisitos
 
-## Instalação
+## 💻 **Instalação**
 
 Instruções para instalação do projeto:
 
@@ -48,7 +49,7 @@ Instruções para instalação do projeto:
    pip install -r requirements.txt
    ```
 
-## Como Usar
+## 🚀 **Como Usar**
 
 Instruções sobre como executar o projeto. Inclua exemplos de comandos:
 
@@ -56,14 +57,14 @@ Instruções sobre como executar o projeto. Inclua exemplos de comandos:
 python nome_do_script.py --parametro valor
 ```
 
-## Exemplos
+## 🔍 **Exemplos**
 
 Forneça exemplos de uso, saídas esperadas ou capturas de tela para ilustrar o funcionamento do projeto.
 
-## Contribuição
+## 🤝 **Contribuição**
 
 Descreva como outros desenvolvedores podem contribuir para o projeto. Inclua informações sobre Pull Requests, Issues, etc.
 
-## Licença
+## 📜 **Licença**
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE). 
