@@ -19,6 +19,10 @@ O repositório está organizado da seguinte forma:
 - **Tecnologias Usadas**: Python, Pandas, SQLite, Flask
 - **Status**: 🚧 Em desenvolvimento 
 
+## 🎨 Estilo de Código
+
+Estes projetos seguem as convenções do [PEP 8](https://peps.python.org/pep-0008/).
+
 ## 🤝 Contribuições
 ### Este é um repositório pessoal, mas se você tiver sugestões, sinta-se à vontade para abrir uma issue ou fazer um pull request. Todas as contribuições são bem-vindas!
 
