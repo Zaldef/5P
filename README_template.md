@@ -28,7 +28,7 @@ Aqui você pode fornecer uma descrição mais detalhada do projeto. Explique o p
 
 Liste as dependências ou requisitos necessários para executar o projeto:
 
-- Python 3.x
+- Python 3.12
 - Bibliotecas necessárias (e.g., `numpy`, `pandas`, etc.)
 - Outros requisitos
 
